@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1601324984 source:c:\users\maksk\desktop\c++\c++\asciigame\main.cpp
+	"game.h"
+
+1601316864 c:\users\maksk\desktop\c++\c++\asciigame\map.h
+	<iostream>
+	<string>
+	<iomanip>
+	<ctime>
+	<conio.h>
+	<stdio.h>
+	<Windows.h>
+
+1601320401 source:c:\users\maksk\desktop\c++\c++\asciigame\map.cpp
+	"map.h"
+
+1601150300 c:\users\maksk\desktop\c++\c++\asciigame\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+	<stdint.h>
+
+1601323504 source:c:\users\maksk\desktop\c++\c++\asciigame\game.cpp
+
+1601323815 c:\users\maksk\desktop\c++\c++\asciigame\game.h
+	"map.h"
+	"mob.h"
+
+1601404949 c:\users\maksk\desktop\c++\c++\asciigame\mob.h
+	<iostream>
+	<conio.h>
+
